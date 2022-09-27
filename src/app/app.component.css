@@ -1,1 +1,6 @@
-@import "~bootstrap/dist/css/bootstrap.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.container{
+  margin-top: 8%;
+  background-color: rgba(203, 204, 204, 0.945);
+}
